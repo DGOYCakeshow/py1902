@@ -165,4 +165,4 @@ Ping - это ICMP ECHO_REQUEST дейтаграммы, но на самом д�
 
 
 
-![alt text](https://ak8.picdn.net/shutterstock/videos/1011909218/thumb/11.jpg)
+![alt text](https://ak8.picdn.net/shutterstock/videos/1011909218/thumb/11.jpg = 250x250)
